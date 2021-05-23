@@ -22,7 +22,8 @@ Thankyou Brad Traversy for such great guides and videos.
 Go checkout his youtube channel:<a href="https://www.youtube.com/user/TechGuyWeb">Brad Traversy</a>
 
 Lets connect!
-<a href ="https://www.linkedin.com/in/onewayshruti/">Linkedin</a><br>
+<br>
+<a href ="https://www.linkedin.com/in/onewayshruti/">Linkedin</a>
 
 <a href = "https://github.com/OnewayShruti">Github</a><br>
 
