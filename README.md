@@ -14,7 +14,7 @@ Make sure you use the toggle button at the right top corner to visit pages.
 
 ![website image](images/real_estate_agency_website_preview.png)
 
-<a href="https://onewayshruti.github.io/real_estate_agency_website/">LIVE PREVIEW</a>
+<a href="https://onewayshruti.github.io/real_estate_agency_website/" target="_blank">LIVE PREVIEW</a>
 
 
 Giving credits:
