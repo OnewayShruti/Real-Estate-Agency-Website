@@ -17,17 +17,15 @@ Make sure you use the toggle button at the right top corner to visit pages.
 <a href="https://onewayshruti.github.io/real_estate_agency_website/" target="_blank">LIVE PREVIEW</a>
 
 
-Giving credits:
+Credits:
 Thankyou Brad Traversy for such great guides and videos.
 Go checkout his youtube channel:<a href="https://www.youtube.com/user/TechGuyWeb">Brad Traversy</a>
 
-Lets connect!:
-
-<a href ="www.linkedin.com/in/onewayshruti">Linkedin</a><br>
+Lets connect!
+<a href ="https://www.linkedin.com/in/onewayshruti/">Linkedin</a><br>
 
 <a href = "https://github.com/OnewayShruti">Github</a><br>
 
-<a href="https://twitter.com/OnewayShruti">Twitter</a><br>
 
 
 
