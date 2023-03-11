@@ -1,5 +1,4 @@
-# Real Estate Agency Website README file
-About:
+
 A simple real estate agency website using html and css.
 
 Purpose:
